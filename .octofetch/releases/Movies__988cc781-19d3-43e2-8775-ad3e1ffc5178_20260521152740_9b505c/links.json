@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6198",
+  "folder": "Movies__988cc781-19d3-43e2-8775-ad3e1ffc5178_20260521152740_9b505c",
+  "base_name": "Movies__988cc781-19d3-43e2-8775-ad3e1ffc5178_20260521152740_9b505c.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/Mobinjust/Cloud-Downloads-2/releases/tag/co-releases-v1-6198",
+  "files": [
+    {
+      "name": "Movies__988cc781-19d3-43e2-8775-ad3e1ffc5178_20260521152740_9b505c.mp4",
+      "url": "https://github.com/Mobinjust/Cloud-Downloads-2/releases/download/co-releases-v1-6198/Movies__988cc781-19d3-43e2-8775-ad3e1ffc5178_20260521152740_9b505c.mp4",
+      "api_url": "https://api.github.com/repos/Mobinjust/Cloud-Downloads-2/releases/assets/426256482",
+      "id": 426256482,
+      "size": 1132474964,
+      "download_count": 0
+    }
+  ]
+}
